@@ -1,5 +1,4 @@
 
-  
 # Exercice Altaprofits
 Nous disposons d'un hangar comprenant plusieurs sections pouvant accueillir différents types de véhicules : avions, hélicoptères, bateaux, jet-skis, voitures et motos.
 
