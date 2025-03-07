@@ -1,5 +1,5 @@
 **Clés de la nouvelle refactorisation :**
-- Créations d'une nouvelle super-classe `Infrastructure` pour regrouper le Fonctionnalité commune aux classes `Hangar` et `Ferme`
+- Créations d'une nouvelle super-classe `Infrastructure` pour regrouper les fonctionnalités communes aux classes `Hangar` et `Ferme`
 
 - Créations deux nouvelles super-classes `Vehicule` qui regroupe les fonctionnalités communes aux véhicules (avion, moto ...) et `Animal` qui regroupe la sous Classe `Oiseau` (pour animaux volant) et `AnimalTerrestre` pour animaux rompant) c’est deux Classe héritent d'une superclasse `Elment` pour implanter la logique de type de mouvement
 # Exercice Altaprofits
